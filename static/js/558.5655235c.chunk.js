@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_saas_website=self.webpackChunkmy_saas_website||[]).push([[558],{558(s,e,i){i.d(e,{supabase:()=>I});const I=(0,i(149).UU)("https://eilhinmeynmwzeyreizt.supabase.co","eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVpbGhpbm1leW5td3pleXJlaXp0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE5MDY2NjcsImV4cCI6MjA5NzQ4MjY2N30.YjKu0Zlp4BVA6xTXmndbn4DyPGlb6AWzbJJR5lHFbN4")}}]);
+//# sourceMappingURL=558.5655235c.chunk.js.map

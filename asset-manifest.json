@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-saas-website/static/css/main.cf890fdb.css",
+    "main.js": "/my-saas-website/static/js/main.1e110e02.js",
+    "static/js/558.5655235c.chunk.js": "/my-saas-website/static/js/558.5655235c.chunk.js",
+    "static/js/215.973e926f.chunk.js": "/my-saas-website/static/js/215.973e926f.chunk.js",
+    "static/js/149.8177b501.chunk.js": "/my-saas-website/static/js/149.8177b501.chunk.js",
+    "index.html": "/my-saas-website/index.html",
+    "main.cf890fdb.css.map": "/my-saas-website/static/css/main.cf890fdb.css.map",
+    "main.1e110e02.js.map": "/my-saas-website/static/js/main.1e110e02.js.map",
+    "558.5655235c.chunk.js.map": "/my-saas-website/static/js/558.5655235c.chunk.js.map",
+    "215.973e926f.chunk.js.map": "/my-saas-website/static/js/215.973e926f.chunk.js.map",
+    "149.8177b501.chunk.js.map": "/my-saas-website/static/js/149.8177b501.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.1e110e02.js"
+  ]
+}
